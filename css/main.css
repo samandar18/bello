@@ -1,0 +1,80 @@
+body {
+  font-family: "Work Sans";
+}
+
+.kind .container {
+  padding-top: 223px;
+  padding-bottom: 196px;
+  background: url("../images/hero-img.png");
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
+.kind__left {
+  max-width: 463px;
+}
+.kind__heading {
+  font-size: 64px;
+  line-height: 68px;
+}
+.kind__desc {
+  max-width: 411px;
+  line-height: 33px;
+}
+
+.covarage {
+  background-color: #f9f5f2;
+}
+.covarage .container {
+  padding-top: 85px;
+  padding-bottom: 85px;
+}
+.covarage__right {
+  margin-left: 144px;
+  max-width: 456px;
+}
+.covarage__heading {
+  font-size: 44px;
+  line-height: 52px;
+}
+.covarage__desc {
+  font-size: 19px;
+  line-height: 30px;
+}
+
+.help .container {
+  padding-top: 148px;
+  padding-bottom: 139px;
+}
+.help__left {
+  max-width: 483px;
+  margin-right: 75px;
+}
+
+.help_img_desc {
+  bottom: -30px;
+  left: -40px;
+  box-shadow: 3px 4px 34px 0px #42474d1c;
+}
+
+.safe-hands {
+  padding-top: 91px;
+  padding-bottom: 85px;
+  background-color: #f8f8f8;
+}
+.safe-hands__item {
+  max-width: 320px;
+  width: 100%;
+  min-height: 310px;
+  padding: 44px 31px;
+  box-shadow: 0px 2px 40px rgba(0, 0, 0, 0.04);
+}
+.safe-hands__item:nth-child(3) {
+  padding: 40px 31px 22px;
+}
+.umbrella {
+  top: -200px;
+}
+/* .safe-hands__item + .safe-hands__item {
+  margin-left: 40px;
+} */
