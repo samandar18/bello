@@ -1,0 +1,57 @@
+/* Prices
+============================= */
+.prices-container {
+	padding-top: 120px;
+	padding-bottom: 101px;
+	background: #363839;
+}
+.prices-title {
+	margin-bottom: 26px;
+	font-family: 'Work Sans';
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	color: #F46752;
+}
+.prices-heading {
+	margin-bottom: 15px;
+	font-family: 'Work Sans';
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 52px;
+	color: #FFFFFF;
+}
+.prices-desc {
+	width: 100%;
+	max-width: 731px;
+	font-family: 'Work Sans';
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 30px;
+	color: #ACB4BF;
+}
+/* Prices-bottom
+============================= */
+.col {
+	margin-top: 67px;
+}
+.prices-bottom-heading {
+	font-family: 'Work Sans';
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 22px;
+	color: #FFFFFF;
+}
+.prices-bottom-desc {
+	width: 100%;
+	max-width: 234px;
+	font-family: 'Work Sans';
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 26px;
+	color: #ACB4BF;
+}
+.prices-bottom-desc:nth-child(3) {
+	width: 100%;
+	max-width: 256px;
+}
